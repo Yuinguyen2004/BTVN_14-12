@@ -1,0 +1,15 @@
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\bin\Debug\BaiTap_14_12.exe.config
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\bin\Debug\BaiTap_14_12.exe
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\bin\Debug\BaiTap_14_12.pdb
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\bin\Debug\EntityFramework.dll
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\bin\Debug\EntityFramework.xml
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\obj\Debug\BaiTap_14_12.csproj.AssemblyReference.cache
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\obj\Debug\BaiTap_14_12.Form1.resources
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\obj\Debug\BaiTap_14_12.Properties.Resources.resources
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\obj\Debug\BaiTap_14_12.csproj.GenerateResource.cache
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\obj\Debug\BaiTap_14_12.csproj.CoreCompileInputs.cache
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\obj\Debug\BaiTap_1.FA6E72A9.Up2Date
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\obj\Debug\BaiTap_14_12.exe
+D:\BTVN_SV\btvn_14_12\BaiTap_14_12\BaiTap_14_12\obj\Debug\BaiTap_14_12.pdb
